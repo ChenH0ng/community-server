@@ -1,5 +1,3 @@
 node_modules/
 dev/
-test.js
-t.js
-.idea/
+test/
